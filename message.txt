@@ -1,8 +1,5 @@
-2
+3
 ||| 
-Nick
+TEST
 
-ok
-
-
-IM out
+Welcome to Bare 4.0!!!
