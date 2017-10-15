@@ -1,5 +1,9 @@
-2
+6
 ||| 
+
 TEST
 
-Welcome to Bare 4.0!!!
+KODI 
+
+Goodnight
+
