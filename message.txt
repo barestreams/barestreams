@@ -1,6 +1,6 @@
-4
-
+5
 |||
+We went from 1 to 2. The change in number sends the updated message to the user.
 
-test
 
+Hit the commit changes to save and that is how you use the XBMC Hub Notifications addon like a Pro.
