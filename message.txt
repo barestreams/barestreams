@@ -1,4 +1,4 @@
-6
+7
 ||| 
 [COLOR yellow]Welcome to Bare 4.1 Update[/COLOR]
 
