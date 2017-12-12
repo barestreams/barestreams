@@ -1,4 +1,4 @@
-2 
+3
 ||| 
 [COLOR yellow]Welcome to Bare 4.1 Update[/COLOR][/B]
 
@@ -13,7 +13,3 @@
 [COLOR yellow]The best live tv is Dexter[/COLOR][/B]
 
 [COLOR yellow]Email me if you have questions.[/COLOR][/B]
-
-
-
-
