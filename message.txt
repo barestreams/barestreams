@@ -1,15 +1,15 @@
-3
+4
 ||| 
-[COLOR yellow]Welcome to Bare 4.1 Update[/B][/COLOR]
+[COLOR yellow][B]Welcome to Bare 4.1 Update[/B][/COLOR]
 
-[COLOR yellow]Temporary Section/ Added **NBC Sports with a login / **Fresh IPTV has a login " Enjoy these because they wont last"[/B][/COLOR]
+[COLOR yellow][B]Temporary Section/ Added **NBC Sports with a login / **Fresh IPTV has a login " Enjoy these because they wont last"[/B][/COLOR]
 
-[COLOR yellow]**Christmas Section added**[/B][/COLOR]
+[COLOR yellow][B]**Christmas Section added**[/B][/COLOR]
 
-[COLOR yellow]Movie Section Has New addons Like SpinzFlix,Poseidon and MORE![/B][/COLOR]
+[COLOR yellow][B]Movie Section Has New addons Like SpinzFlix,Poseidon and MORE![/B][/COLOR]
 
-[COLOR yellow]Remember to give BARE 90 seconds to load updates and auto clean itself.[/B][/COLOR]
+[COLOR yellow][B]Remember to give BARE 90 seconds to load updates and auto clean itself.[/B][/COLOR]
 
-[COLOR yellow]The best live tv is Dexter[/B][/COLOR]
+[COLOR yellow][B]The best live tv is Dexter[/B][/COLOR]
 
-[COLOR yellow]Email me if you have questions.[/B][/COLOR]
+[COLOR yellow][B]Email me if you have questions.[/B][/COLOR]
