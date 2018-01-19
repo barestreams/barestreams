@@ -1,15 +1,15 @@
 4
 ||| 
-[COLOR yellow][B][/COLOR][/B]
+[COLOR yellow][B]Update 4.2 is ready. Click update to install.[/COLOR][/B]
 
-[COLOR red][B][/COLOR][/B]
+[COLOR red][B]After update, click video addons under movies and hover over Metalliq, click Menu button from your remote and click INFORMATION, CLick UPDATE and select the first item from the list. Now that addon will work.[/COLOR][/B]
 
-[COLOR yellow][B]Working on new update for better addons and quicker results.[/COLOR][/B]
+[COLOR yellow][B]Changes: Added Elysium Lite, and few new addons that all show more links!!! .[/COLOR][/B]
 
 [COLOR yellow][B]Temporary Section/ Added **NBC Sports with a login / **Fresh IPTV has a login " Enjoy these because they wont last'[/COLOR][/B]
 
 
-[COLOR yellow][B][/COLOR][/B]
+[COLOR yellow][B]You will need to clear CACHE manually about once a week not everyday. [/COLOR][/B]
 
 [COLOR yellow][B]Order Dexter subscription for the best LIVE TV and SPORTS for $12 a month![/COLOR][/B]
 
