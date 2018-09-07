@@ -1,8 +1,8 @@
-5
+4
 ||| 
 [COLOR white][B]9/7- 5.1 update is ready!.  [COLOR white][B]
 
-[COLOR yellow][B]-Free Trial for Grizzly Streams added so enjoy it while it last.[COLOR green][/B]
+[COLOR yellow][B]Email: barebox909@gmail.com[COLOR green][/B]
 [COLOR white][B]-UFC 228: Woodley vs. Till September 8, 2018[/B]
 [COLOR white][B]-Canelo Álvarez vs. Gennady Golovkin II September 15[COLOR green][/B]
 [COLOR yellow][B]-XXX is under the Maintenance menu.[COLOR green][/B]
