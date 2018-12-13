@@ -1,6 +1,6 @@
-8
+7
 ||| 
-[COLOR white][B]12/13- DONT FORGET TO UPDATE TO THE LATEST DECEMBER UPDATE OF BARE.!.  [COLOR white][B]
+[COLOR white][B]12/13- DONT FORGET TO UPDATE TO THE LATEST DECEMBER UPDATE OF BARE![COLOR white][B]
 [COLOR red][B]Email: barebox909@gmail.com[COLOR green][/B]
 [COLOR yellow][B]CHANGE LOG [/COLOR][/B]
 [COLOR white][B]-Added Christmas Section[/B]
