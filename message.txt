@@ -1,12 +1,12 @@
-8
+2
 ||| 
-[COLOR white][B]Feb5- 7.0 Update availble![COLOR white][B]
+[COLOR white][B]TEST[COLOR white][B]
 [COLOR red][B]Email: barebox909@gmail.com[COLOR green][/B]
 [COLOR yellow][B]CHANGE LOG [/COLOR][/B]
-[COLOR white][B]-Removed dead sections.[/B]
-[COLOR white][B]-Fixed Movie/TVShow tab- now you can click the title and itll bring up the search feature.[COLOR green][/B]
-[COLOR white][B]-Remeber to give the CLICKS some time to download the data.[/B]
-[COLOR white][B]-XXX is under the Maintenance menu.[COLOR green][/B]
+[COLOR white][B]-TEST.[/B]
+[COLOR white][B]-TEST.[COLOR green][/B]
+[COLOR white][B]-RTEST[/B]
+[COLOR white][B]-TEST.[COLOR green][/B]
 [COLOR white][B]-Maintenance will need to be done by you bi-weekely.[COLOR green][/B]
 [COLOR yellow][B]Ikonic/Grizzly is having a $10 special for live tv.[/COLOR][/B]
 [COLOR yellow][B]Check out my latest videos on Barestreams.com for reviews and tips![/COLOR][/B]
