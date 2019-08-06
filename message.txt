@@ -1,13 +1,13 @@
-4
+2
 ||| 
-[COLOR white][B]TEST[COLOR white][B]
-[COLOR red][B]Email: barebox909@gmail.com[COLOR green][/B]
+[COLOR white][B]NEW BARE UPDATE IS READY 8/6/2019[COLOR white][B]
+[COLOR red][B]Email:barebox909@gmail.com[COLOR red][/B]
 [COLOR yellow][B]CHANGE LOG [/COLOR][/B]
-[COLOR white][B]-TEST.[/B]
-[COLOR white][B]-TEST.[COLOR green][/B]
-[COLOR white][B]-RTEST[/B]
-[COLOR white][B]-TEST.[COLOR green][/B]
+[COLOR white][B]-New Tile Theme Layout for easy access[/B]
+[COLOR white][B]-Plex is your own collection of movies or a friends. IkonicTV is a paid Live TV subscription.[COLOR green][/B]
+[COLOR white][B]-Magical, Greased, Destiny, Jor El are Movie/TV show addons. Click them and explore![/B]
+[COLOR white][B]-Sportowa is Sports streams and XxSettings has XXX.[COLOR green][/B]
 [COLOR white][B]-Maintenance will need to be done by you bi-weekely.[COLOR green][/B]
-[COLOR yellow][B]Ikonic/Grizzly is having a $10 special for live tv.[/COLOR][/B]
+[COLOR yellow][B]Ikonic is having a $10 special for live tv.[/COLOR][/B]
 [COLOR yellow][B]Check out my latest videos on Barestreams.com for reviews and tips![/COLOR][/B]
 [COLOR yellow][B]Enjoy friends![/COLOR][/B]
